@@ -1,4 +1,4 @@
-We can never undermine the importance of data cleaning and data science storytelling and this folder is dedicated to just that
+We can never undermine the importance of data cleaning and data science storytelling and this folder is dedicated to just that.
 
 ## Data Cleaning and its Importance
 - Data cleaning is also important because it improves your data quality and in doing so, increases overall productivity. When you clean your data, all outdated or incorrect information is gone – leaving you with the highest quality information. This ensures your team do not have to wade through countless outdated documents and allows employees to make the most of their work hours

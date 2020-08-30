@@ -13,7 +13,7 @@ d. Check for duplicate data and remove it</br>
 e. Analyze the data</br>
 f. Provide insights</br>
 
-## Video demonstrating the data cleaning project which I did in collaboration of my peers
+### Video demonstrating the data cleaning project which I did in collaboration of my peers
 https://illinois.zoom.us/rec/play/uJ17Iu2tqW43SNbH4wSDVPEtW9S4evmsh3Ma_vJYnU3nBSFVMVH0YeEQNuJBqdfqkny9sUMdw_kWhJws?continueMode=true
 
 ## Data Science Storytelling and its Importance
@@ -24,10 +24,10 @@ https://illinois.zoom.us/rec/play/uJ17Iu2tqW43SNbH4wSDVPEtW9S4evmsh3Ma_vJYnU3nBS
 Since now you may have understood the importance of data science storytelling, here are two videos that demonstrate my data storytelling abilities in way that it can be understood by anyone even though they might not be familar with the data science terms and jargons.
 
 
-1. Drug Abuse in America
+### 1. Drug Abuse in America
 https://mediaspace.illinois.edu/media/0_23ukjimd
 
-2. Obesity in United States
+### 2. Obesity in United States
 https://mediaspace.illinois.edu/media/1_obr9u7vr
 
 
